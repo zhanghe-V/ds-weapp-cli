@@ -1,0 +1,8 @@
+<!--
+ * @Description: Description
+ * @Author: BeiJia
+ * @Date: 2021-12-02 10:59:19
+-->
+<view
+  class="ds-class iconfont {{ type === '' ? '' : 'icon-' +  type }} {{ custom }}"
+  style="font-size: {{ size }}px; {{ color ? 'color:' + color : '' }}"></view>

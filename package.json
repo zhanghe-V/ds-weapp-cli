@@ -1,0 +1,25 @@
+{
+  "name": "weapp-cli",
+  "private": false,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "weapp-cli": "bin/index"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhanghe-V/weapp-cli.git"
+  },
+  "author": "zhanghe-V",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^5.0.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "ora": "^5.2.0"
+  }
+}
