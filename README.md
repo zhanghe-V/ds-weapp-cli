@@ -1,14 +1,14 @@
-## mp-wx-cli
+## ds-weapp-cli
 
 ### 如何使用
 ```
-  npm install mp-wx-cli -g
+  npm install ds-weapp-cli -g
 
   or
 
-  yarn global add mp-wx-cli
+  yarn global add ds-weapp-cli
 
-  mp-wx-cli init 
+  ds-weapp init 
 
 ```
 

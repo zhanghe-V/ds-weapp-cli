@@ -1,11 +1,11 @@
 {
-  "name": "weapp-cli",
+  "name": "ds-weapp-cli",
   "private": false,
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "weapp-cli": "bin/index"
+    "ds-weapp": "bin/index"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
